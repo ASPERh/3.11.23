@@ -1,0 +1,7 @@
+﻿  3.11.23.cpp
+D:\VisualStudioProjects\3.11.23\3.11.23\3.11.23.cpp(7,15): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\3.11.23\3.11.23\3.11.23.cpp(11,20): warning C4018: >: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\3.11.23\3.11.23\3.11.23.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\3.11.23\3.11.23\3.11.23.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\VisualStudioProjects\3.11.23\3.11.23\3.11.23.cpp(46,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3.11.23.vcxproj -> D:\VisualStudioProjects\3.11.23\x64\Debug\3.11.23.exe
